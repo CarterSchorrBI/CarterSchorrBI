@@ -2,8 +2,7 @@
 
 <h2>Business Intelligence (BI) Projects:</h2>
 
-- <b>School Survey Project</b>
-  - [Tableau Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Tableau Dashboard](https://www.youtube.com/watch?v=zgqfWLHNKLk&t=96s&ab_channel=JoshMadakor)
 
 <h2>Certifications</h2>
 
