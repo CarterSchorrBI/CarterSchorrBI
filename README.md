@@ -2,7 +2,7 @@
 
 <h2>Business Intelligence (BI) Projects:</h2>
 
-- [Tableau Dashboard](https://www.youtube.com/watch?v=zgqfWLHNKLk&t=96s&ab_channel=JoshMadakor)
+- [Tableau Dashboard](https://github.com/CarterSchorrBI/IPS-School-Survey-Dashboard)
 
 <h2>Certifications</h2>
 
