@@ -1,8 +1,5 @@
 # Business Intelligence
 
-### Projects
-- IPS Tableau Dashboard
-
 ### Experience
 Business Intelligence Developer (Contract)
 Zenwise, LLC
@@ -23,13 +20,18 @@ Dawgs Gone Coastin’ (Butler Real Business Experience Course)
 - Created and maintained company ecommerce website using Square.
 - Generated a net profit of $900+.
 
+### Projects
+- IPS Tableau Dashboard
+
 ### Certifications
 Microsoft Office Specialist
 Excel Expert Exam (Microsoft 365 Apps)
+
 Certification Number: 4F0F50-7HC9B4
 
 Microsoft Office Specialist
 Excel Associate Exam (Microsoft 365 Apps)
+
 Certification Number: 5D8F9K-14A615
 
 ### Education
