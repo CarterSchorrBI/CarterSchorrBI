@@ -2,7 +2,7 @@
 
 <h2>Business Intelligence (BI) Projects:</h2>
 
-- [Tableau Dashboard](https://github.com/CarterSchorrBI/IPS-School-Survey-Dashboard)
+- [IPS School Survey Dashboard](https://github.com/CarterSchorrBI/IPS-School-Survey-Dashboard)
 
 <h2>Certifications</h2>
 
