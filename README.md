@@ -1,40 +1,11 @@
-# Business Intelligence
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/carterschorr-bi/">Carter Schorr</a>
 
-### Experience
-Business Intelligence Developer (Contract)
-Zenwise, LLC
-- Convert Tableau dashboards to Power BI.
-- Create integration between Microsoft Dynamics 365 ERP and SQL databases.
-- Develop new, analytic dashboards focusing on sales, profitability, inventory, and financial performance.
+<h2>Business Intelligence (BI) Projects:</h2>
 
-Business Intelligence/Data Analytics Intern
-State of Indiana Personnel Department
-- Utilized Tableau Prep Builder to clean and transform data for Tableau dashboards relating to offboarding, compensation, staffing, and demographic reports.
-- Designed, implemented, and provided user training for HR related data visualization dashboards, such as offboarding, compensation, demographic reporting, and Tableau account usage data. Agency executives and HR professionals utilize these dashboards to gain important insights.
-- Developed and ran PeopleSoft queries using PS Query to extract data for reporting and analysis.
-- Created a data dictionary to document how variables in 46 different queries from PeopleSoft and SuccessFactors connect to 50 different Tableau prep data flows and 20 Tableau dashboards.
+- <b>School Survey Project</b>
+  - [Tableau Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
 
-Student Chief Technology Officer
-Dawgs Gone Coastin’ (Butler Real Business Experience Course)
-- Coordinated manufacturing and sold high-quality Butler University themed stone coasters during Real Business Experience Course.
-- Created and maintained company ecommerce website using Square.
-- Generated a net profit of $900+.
+<h2>Certifications</h2>
 
-### Projects
-- IPS Tableau Dashboard
-
-### Certifications
-Microsoft Office Specialist
-Excel Expert Exam (Microsoft 365 Apps)
-
-Certification Number: 4F0F50-7HC9B4
-
-Microsoft Office Specialist
-Excel Associate Exam (Microsoft 365 Apps)
-
-Certification Number: 5D8F9K-14A615
-
-### Education
-Butler University Lacy School of Business
-Bachelor of Science in Applied Business Technology
-GPA: 3.2/4.0
+- [Microsoft Office Specialist Excel Expert Exam](https://www.credly.com/badges/0692e296-0204-4591-af66-62bfb013feaf/linked_in_profile)
+- [Microsoft Office Specialist Excel Associate Exam](https://www.credly.com/badges/1f8e851d-22cf-4be9-873b-3680df59bd32/linked_in_profile)
