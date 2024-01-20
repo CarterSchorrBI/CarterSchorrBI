@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/carterschorr-bi/">Carter Schorr</a>
+<h1>Hi, I'm Carter Schorr</a>
 
 <h2>Business Intelligence (BI) Projects:</h2>
 
